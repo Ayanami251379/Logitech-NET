@@ -1,3 +1,8 @@
+Logitech-NET
+------------
+Project fork by @Ayanami251379 to implement a VB code base.
+Original project: https://github.com/zzattack/Logitech-LCD
+
 lglcd
 -----
 This project transforms the entire Logitech LCD SDK (lglcd.lib), which is only provided as a static C library, into a dynamic link library, by exporting all functions in the outputted native lglcd.dll.
